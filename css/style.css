@@ -1,6 +1,6 @@
 *
 {
-    margin: 2px;
+    margin: 0px;
     padding:0;
     box-sizing: border-box;
 }
@@ -93,7 +93,7 @@ nav ul li a
 font-size: 12pt;
 }
 .lef{ float:left;  margin-right: 0px; margin-left: 0;}
-.righ{float:right; margin-right: 47px;}
+.righ{float:right; margin-right: 52px;}
 .rig{float:right; }
 
 .banner
@@ -278,7 +278,7 @@ footer {
     /* background-color: #333; */
     color: #fff;
     text-align: center;
-    padding: 20px 0;
+    /* padding: 20px 0; */
 }
 
 /* Style the footer content */
@@ -315,7 +315,13 @@ footer {
     font-size: 12px;
 }
 
-
+.footer{
+    background-color: #CB5D27;
+    height: 50px;
+    width: 100%;
+    margin-bottom: 20px;
+    box-shadow: 1px 1px 10px #AD4E1F;
+}
 
 
 
